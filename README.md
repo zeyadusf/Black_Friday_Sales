@@ -3,56 +3,27 @@
 
   &#xa0;
 
-  <!-- <a href="https://black_friday_sales.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Black Friday Sales</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{zeyadusf}}/black_friday_sales?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{zeyadusf}}/black_friday_sales?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{zeyadusf}}/black_friday_sales?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{zeyadusf}}/black_friday_sales?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/black_friday_sales?color=56BEB8" /> -->
-
-  <img alt="Github forks" src="https://img.shields.io/github/forks/{{zeyadusf}}/black_friday_sales?color=56BEB8" /> -->
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/{{zeyadusf}}/black_friday_sales?color=56BEB8" />
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Black_Friday_Sales 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
 
-<br>
+
 
 ## :dart: About ##
-
-Describe your project
 
 A retail company “ABC Private Limited” wants to understand the customer purchase behavior (specifically, purchase amount) against various products of different categories. They have shared purchase summaries of various customers for selected high-volume products from last month. The data set also contains customer demographics (age, gender, marital status, city type, stay in current city), product details (productid and product category), and Total purchase amount from last month.
 
 The main goal of this project is to build a model to predict the purchase amount of customers against various products which will help them to create a personalized offer for customers against different products.
 
-DataSet From Kaggle:<a href="https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale">Black Friday Sale</a>
+* DataSet From Kaggle : <a href="https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale">Black Friday Sale</a>
+
+* You can watch it on Kaggle and don't forget to upvote : <a href="https://www.kaggle.com/code/zeyadusf/blackfri-eda-prediction-pycaret-xgboost-72">BlackFri_EDA&Prediction(Pycaret-XgBoost)~72%</a>
 
 ## :rocket: Technologies ##
 
